@@ -1,3 +1,3 @@
-# Will be writing how to use this repo as time permits.
+# Facial Expression recognition
 
-Feel free to enhance this project to suit your requiremnt and better accuracy.
+## Description: Aim of this project is to detect realtime facial expression detection using Computer vision and Deep Learning.
